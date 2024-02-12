@@ -41,6 +41,6 @@ This project is licensed under the MIT License. For more information, see the li
 
 ## Repo
 ![JATE App](image.png)
-Check out [Project Name](Link) repo
+Check out [Awesome-Text-Editor Repo](https://github.com/jbrowning824/awesome-text-editor) repo
 
-Checkout the deployed site at [Project Name](link)
+Checkout the deployed site at [Awesome-Text-Editor](https://jb-awesome-text-editor.onrender.com/)
